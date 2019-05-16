@@ -18,16 +18,6 @@ body {
 }
 
 </style>
-<!--  
-<script type="text/javascript" src="js/ajax.js"></script>
-<script type="text/javascript">
-
-
-  function test(){
-	  return validateUserName();
-  }
-</script>
--->
 </head>
 <body>
 	<table width="100%" height="1000px" cellspacing="0">
@@ -57,7 +47,7 @@ body {
 						</tr>
 						<tr>
 							<td></td>
-							<td><input type="checkbox" checked><font size="2" color="white"><font size="3">两周内自动登录</font></font></td>
+							<td><input type="checkbox" checked><font size="2" color="black"><font size="3">两周内自动登录</font></font></td>
 						</tr>
 						<tr>
 							<td colspan="2" align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="image" src="imgs/login.png"/></td>
