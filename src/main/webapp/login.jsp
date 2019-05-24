@@ -31,7 +31,7 @@ body {
 		<tr background="./imgs/3.jpg">
 			<td width="30%"></td>
 			<td align="center">
-				<form action="Adminservlet?action=login"  method="post"  name="login1"  onsubmit="return test()">
+				<form action="login"  method="post"  name="login1"  onsubmit="return test()">
 					<table frame="box" width="600px" height="280px" bordercolor="white">
 						<tr>
 							<td colspan="2" align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font
